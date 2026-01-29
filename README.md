@@ -40,9 +40,9 @@ Emailing: Laravel Notifications (Mailtrap/SMTP)
 
 ### Admin Dashboard
 
-<img src="images/imake" width="700" />
-<img src="images/imawge" width="700" />
-<img src="images/imag;e" width="700" />
+<img src="images/imake.png" width="700" />
+<img src="images/imawge.png" width="700" />
+<img src="images/imag;e.png" width="700" />
 <img src="images/imageù.png" width="700"  />
 <img src="images/imagke.png" width="700"/>
 <img src="images/imagek.png" width="700" />

@@ -18,8 +18,6 @@ A comprehensive, full-stack web application designed to manage hotel operations.
 
 - Booking Control: Approve or reject pending customer reservations.
 
-- Email System: Send direct email notifications to customers from the dashboard.
-
 - Gallery Management: Upload and manage hotel lifestyle photos.
 
 - Real-time Statistics: Track total rooms, bookings, messages, and revenue.
@@ -34,7 +32,6 @@ Frontend: Blade Templates, Bootstrap 4/5, CSS3, JavaScript
 
 Database: MySQL
 
-Emailing: Laravel Notifications (Mailtrap/SMTP)
 
 ## 📸 Screenshots
 

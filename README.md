@@ -14,7 +14,7 @@ A comprehensive, full-stack web application designed to manage hotel operations.
 - Responsive Design: Fully optimized for mobile, tablet, and desktop views.
 
 - **Admin Dashboard**
-  - Room Management: Add, update, and delete room details and high-quality images.
+- Room Management: Add, update, and delete room details and high-quality images.
 
 - Booking Control: Approve or reject pending customer reservations.
 

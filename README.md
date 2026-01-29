@@ -40,14 +40,14 @@ Emailing: Laravel Notifications (Mailtrap/SMTP)
 
 ### Admin Dashboard
 
-<img src="images/Screenshot 2026-01-08 220847.png" width="700"  />
-<img src="images/Screenshot 2026-01-08 220951.png" width="700"/>
-<img src="images/Screenshot 2026-01-08 221020.png" width="700" />
-
-
-
+<img src="images/imageù.png" width="700"  />
+<img src="images/imagke.png" width="700"/>
+<img src="images/imagek.png" width="700" />
+<img src="images/imake" width="700" />
+<img src="images/imawge" width="700" />
+<img src="images/imag;e" width="700" />
 ### Visitor Website
-<img src="images/Screenshot 2026-01-08 221049.png" width="700" />
-<img src="images/Screenshot 2026-01-08 221112.png" width="700" />
-<img src="images/Screenshot 2026-01-08 221137.png"width="700"/>
+<img src="images/imagze.png" width="700" />
+<img src="images/image.png" width="700" />
+<img src="images/imaege.png"width="700"/>
 
